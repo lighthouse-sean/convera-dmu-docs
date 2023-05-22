@@ -15,7 +15,8 @@ layout: layouts/post.njk
 
 Click edit on file, move to folder path 
 
-- Click edit on file, move to folder path: /2023/2. Marketing Activity /Currency Convo Program/DMU/Image/HK SG Images/Q2 2023 
+- Click edit on file, move to folder path: 
+>><strong>/2023/2. Marketing Activity /Currency Convo Program/DMU/Image/HK SG Images/Q2 2023</strong> 
 
 >>1. 2023
 >>2. Marketing Activity 
