@@ -1,0 +1,21 @@
+{
+  "title": "Convera DMU Wiki",
+  "url": "https://convera.com/",
+  "language": "en",
+  "description": "DMU instructions and tips.",
+  "feed": {
+    "subtitle": "DMU instructions and tips.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Sean Mahoney",
+    "email": "sean@lhchq.com",
+    "url": "https://example.com/about-me/"
+  }
+}
