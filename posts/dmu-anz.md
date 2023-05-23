@@ -9,7 +9,7 @@ layout: layouts/post.njk
 ---
 
 ![Drag Racing](Dragster.jpg)
-<img src="https://stackblitz.com/files/conv-dmu-wiki-lhc/github/lighthouse-sean/convera-dmu-docs/main/img/StevenDooley_DailyMarketReport_APAC.jpg"
+<img src=""
     alt="anz-header"
     style="float:left; margin-right:10 px;" />
 ## Images
