@@ -8,10 +8,8 @@ tags:
 layout: layouts/post.njk
 ---
 
-![Drag Racing](Dragster.jpg)
-<img src=""
-    alt="anz-header"
-    style="float:left; margin-right:10 px;" />
+![ANZ Header](/img/StevenDooley_DailyMarketReport_APAC.jpg)
+
 ## Images
 
 - Save the image files from email, rename to naming convention below after updating the date
