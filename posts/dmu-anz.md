@@ -11,7 +11,7 @@ layout: layouts/post.njk
 ![ANZ Header](/img/StevenDooley_DailyMarketReport_APAC.jpg)
 
 ## Subject
-![DMU Subject](/img/dmu-subject-screenshot.jpg)
+![DMU Subject](/img/dmu-subject-screenshot.png)
 
 ## Images
 
