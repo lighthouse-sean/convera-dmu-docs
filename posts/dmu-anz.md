@@ -10,6 +10,9 @@ layout: layouts/post.njk
 
 ![ANZ Header](/img/StevenDooley_DailyMarketReport_APAC.jpg)
 
+## Subject
+![DMU Subject](/img/dmu-subject-screenshot.jpg)
+
 ## Images
 
 - Save the image files from email, rename to naming convention below after updating the date
