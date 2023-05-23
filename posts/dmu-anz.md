@@ -7,7 +7,9 @@ tags:
   - dmu
 layout: layouts/post.njk
 ---
-
+<img src="https://stackblitz.com/files/conv-dmu-wiki-lhc/github/lighthouse-sean/convera-dmu-docs/main/img/StevenDooley_DailyMarketReport_APAC.jpg"
+    alt="anz-header"
+    style="float:left; margin-right:10 px;" />
 ## Images
 
 - Save the image files from email, rename to naming convention below after updating the date
