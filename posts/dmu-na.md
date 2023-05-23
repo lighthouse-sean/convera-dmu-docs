@@ -8,6 +8,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+![NA Header](/img/dmu-north-america.jpg)
+
 ## Images
 
 - Save the image files from email, rename to naming convention below after updating the date
